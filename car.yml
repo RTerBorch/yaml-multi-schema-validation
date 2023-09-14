@@ -1,5 +1,7 @@
 car:
   manufacturer: volvo
+  year: "1989"
   model: "v70"
-  -attributes.0:
+  attributes:
+    - snabb
   reg: "abc123"
