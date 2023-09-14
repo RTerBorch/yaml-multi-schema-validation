@@ -1,2 +1,5 @@
 car:
   manufacturer: volvo
+  model: "v70"
+  -attributes.0:
+  reg: "abc123"
