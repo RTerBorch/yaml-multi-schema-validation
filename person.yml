@@ -1,3 +1,8 @@
 person:
   name:
     first_name: Stig
+    last_name: Bullson
+    age: 30
+    class: Matte
+    start_year: 2010
+    hobbies: karate
