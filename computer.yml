@@ -1,3 +1,9 @@
 computer:
   cpu:
     cores: 8
+    manufacturer: "Intel"
+    frequency: 124.14
+  memory:
+    manufacturer: "hpMemory"
+    size: "1600 mhz"
+    type: "fast"
