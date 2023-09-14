@@ -5,4 +5,4 @@ person:
     first_name: Stig
     last_name: Bullson
   start_year: 2010
-  hobbies: karate
+  hobbies: [hello, haha]
