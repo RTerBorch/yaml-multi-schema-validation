@@ -4,4 +4,5 @@ car:
   model: "v70"
   attributes:
     - snabb
+    - fin
   reg: "abc123"
