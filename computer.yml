@@ -5,5 +5,9 @@ computer:
     frequency: 124.14
   memory:
     manufacturer: "hpMemory"
-    size: "1600 mhz"
+    size: 1600
     type: "fast"
+  disk:
+    manufacturer: "plåtKalle"
+    size: 20000
+    type: "ssd"
